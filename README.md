@@ -5,7 +5,7 @@ Hardware files for OtterControl BLDC motor controller.
 OtterControl is a open source, open hardware DC / BLDC motor controller.
 The basic idea was to make the well-known VESC (http://vedder.se/2015/01/vesc-open-source-esc/) even cheaper - making hoverboard-powered armchairs or crazycarts affordable.
 
-While these 350W hoverboards motors are great and quiet affordable (only 40€ in Germany),
+While these 350W hoverboards motors are great and quite affordable (only 40€ in Germany),
 you need a powerful ESC to get them running. Until now, the only open ESC I'm aware of is the VESC - which is great and all, but with ~100-120€ per piece quiet expensive.
 That's why I decided to save on some parts:
 
